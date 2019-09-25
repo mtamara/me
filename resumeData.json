@@ -1,0 +1,159 @@
+{
+  "main": {
+    "name":"Tamara Milovanovic",
+    "occupation":"Full Stack Software Engineer",
+    "description":", passionate traveler and sports athlete",
+    "image":"profilepic.jpg",
+    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "tamara.milovanovic@gmail.com",
+    "phone": "555-555-5555",
+    "address":{
+      "street":"(Your Street)",
+      "city":"Munich",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/tamara.milovanovic.37",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"xing",
+        "url":"https://www.xing.com/profile/Tamara_Milovanovic2/cv",
+        "className":"fa fa-xing"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tamara-milovanovic-5a817467/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/mtamara",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Faculty of Technical Sciences, University in Novi Sad",
+        "degree":"Master in Electrical and Computer Engineering - Information Systems Engineering",
+        "timeline": "2015 - 2017",
+        "thesis": "Master Thesis:",
+        "description":"An Architecture and ETL Support of a System for Airplane Flight Analysis at the Level of United States of America"
+      },
+      {
+        "school":"Faculty of Technical Sciences, University in Novi Sad",
+        "degree":"Bachelor with honours in Electrical and Computer Engineering - Computing and Control Engineering",
+        "timeline": "2011 - 2015",
+        "thesis": "Bachelor Thesis:",
+        "description":"A Software Tool for a Language School Support Services – A Subsystem for Students’ Data and Class Organization"
+      }
+    ],
+    "work":[
+      {
+        "company":"MaibornWolff GmbH",
+        "title":"Senior Software Engineer",
+        "years":"March 2017 - Present",
+        "description":"Full Stack"
+      },
+      {
+        "company":"tisoware Gesellschaft für Zeitwirtschaft mbH",
+        "title":"Web Developer",
+        "years":"February 2016 - March 2017",
+        "description":"Frontend"
+      }
+    ],
+    "languages":[
+      {
+        "name":"Serbian",
+        "level":"100%"
+      },
+      {
+        "name":"English",
+        "level":"90%"
+      },
+      {
+        "name":"German",
+        "level":"85%"
+      },
+      {
+        "name":"Spanish",
+        "level":"40%"
+      }
+    ],
+    "skills":[
+      {
+        "name":"HTML"
+      },
+      {
+        "name":"CSS"
+      },
+      {
+        "name":"JavaScript"
+      },
+      {
+        "name":"Angular"
+      },
+      {
+        "name":"Bootstrap"
+      },
+      {
+        "name":"Java"
+      },
+      {
+        "name":"Spring Framework"
+      },
+      {
+        "name":"Microsoft Azure"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"thailand.jpg",
+        "url":"http://www.timbakerdev.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"TBD",
+        "user":"Anonymous"
+      },
+      {
+        "text":"TBD",
+        "user":"Anonymous"
+      }
+    ]
+  }
+}
