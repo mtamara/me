@@ -4,7 +4,7 @@
     "occupation":"Full Stack Software Engineer",
     "description":", passionate traveler and sports athlete",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"I'm a senior software engineer working for a Munich based company and volunteering as a team lead and trainer for programming courses at Female Tech Leaders organization. I enjoy fullstack web development and playing around with new and challenging technologies. One of my hobbies are hackathons and I have won 2 so far – Audi Challenge at FC Bayern HackDays 2018 and the Best Pitch Award at HackDays Rhein-Neckar 2019. In my free time I'm most probably to be seen on the handball court playing handball for FC Bayern or travelling with my backpack.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "tamara.milovanovic@gmail.com",
     "phone": "555-555-5555",
@@ -100,6 +100,9 @@
         "name":"JavaScript"
       },
       {
+        "name":"ReactJS"
+      },
+      {
         "name":"Angular"
       },
       {
@@ -129,30 +132,18 @@
         "category":"(offline now) A fighting gear company I started",
         "image":"fury-fighting-gear.jpg",
         "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"thailand.jpg",
-        "url":"http://www.timbakerdev.com"
       }
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"TBD",
-        "user":"Anonymous"
+        "text":"As an engineer, you learn there is a solution to every problem. It may take you a while, but eventually you're going to find it.",
+        "user":"Tony Cardenas"
       },
       {
-        "text":"TBD",
-        "user":"Anonymous"
+        "text":"If you always do what you’ve always done, you’ll always get what you’ve always got.",
+        "user":"Henry Ford"
       }
     ]
   }
