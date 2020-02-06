@@ -5,7 +5,7 @@
     "description":", passionate traveler and sports athlete",
     "image":"profilepic.jpg",
     "bio":"I'm a senior software engineer working for a Munich based company and volunteering as a team lead and trainer for programming courses at Female Tech Leaders organization. I enjoy fullstack web development and playing around with new and challenging technologies. One of my hobbies are hackathons and I have won 2 so far – Audi Challenge at FC Bayern HackDays 2018 and the Best Pitch Award at HackDays Rhein-Neckar 2019. In my free time I'm most probably to be seen on the handball court playing handball for FC Bayern or travelling with my backpack.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "contactmessage":"Get in touch.",
     "email": "tamara.milovanovic@gmail.com",
     "phone": "555-555-5555",
     "address":{
@@ -113,6 +113,9 @@
       },
       {
         "name":"Spring Framework"
+      },
+      {
+        "name":"Cypress"
       },
       {
         "name":"Microsoft Azure"
